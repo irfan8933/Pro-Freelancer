@@ -220,7 +220,7 @@ export default function Wallet() {
           <form onSubmit={handleDeposit} className="flex flex-col gap-4">
             <div className="bg-blue-900/20 border border-blue-900/50 rounded-xl p-4 text-sm">
               <p className="text-blue-200">বিকাশ সেন্ড মানি করুন:</p>
-              <p className="text-xl font-bold text-blue-400 mt-1">{adminBkash}</p>
+              <p className="text-xl font-bold text-blue-400 mt-1">01000000000</p>
             </div>
             <div>
               <label className="text-xs font-medium text-slate-400 mb-1 block">টাকার পরিমাণ</label>
